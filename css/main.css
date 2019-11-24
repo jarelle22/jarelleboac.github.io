@@ -17,7 +17,7 @@ a {
     color: #FFA500;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /*when your cursor hovers over a link, it is underlined!*/
 }
 h1 {
     font-size: 3em;
