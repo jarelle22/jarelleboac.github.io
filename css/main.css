@@ -20,9 +20,13 @@ a:hover {
     text-decoration: underline; /*when your cursor hovers over a link, it is underlined!*/
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /*font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     color: #C06C84;
+    
+    font-family: brandon-grotesque, sans-serif;
+    font-style: normal;
+    font-weight: 100;
 }
 h3 {
     font-size: 1em;
