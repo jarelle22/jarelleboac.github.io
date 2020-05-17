@@ -32,6 +32,7 @@ h1 {
 }
 p {
     font-family: 'Sans-Serif';
+    font-style: normal;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #000000;
